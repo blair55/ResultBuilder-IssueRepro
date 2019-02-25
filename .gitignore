@@ -1,0 +1,8 @@
+bin/
+obj/
+build/
+packages/
+paket-files/
+node_modules/
+.serverless/
+.ionide/
